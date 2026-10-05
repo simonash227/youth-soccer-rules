@@ -1,0 +1,1242 @@
+[
+  {
+    "organisation": "U.S. Soccer (Player Development Initiatives)",
+    "country": "United States",
+    "age_group": "U6, U7, U8",
+    "format": "4v4",
+    "players_on_field": 4,
+    "match_length_minutes": 40,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 4,
+      "length_minutes": 10,
+      "note": "4 quarters, no more than 10 minutes each; 5 minute breaks between quarters; playing time can be less when managed by coaches and parents"
+    },
+    "ball_size": 3,
+    "goalkeeper": false,
+    "heading_rule": "Deliberate heading not allowed in 4v4 games; indirect free kick to opponents from the spot of the offence.",
+    "substitution_rule": "Substitutions are unlimited and can occur at any time.",
+    "minimum_playing_time_rule": "Philosophy (best practice, not mandated): everyone should participate a minimum of 50% of the time.",
+    "build_out_or_retreat_line": "No build-out line at 4v4. No offside.",
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2023/09/Player-Development-Initiatives-2017.pdf",
+    "source_title": "U.S. Soccer, Player Development Initiatives (February 2017) - Small-Sided Games Chart and 4v4 Standards of Play",
+    "quote": "Size 3 ball; 4v4 (no goalkeepers); Substitutions are unlimited and can occur at any time; 4 quarters; No more than 10 minute quarters",
+    "retrieved_date": "2026-10-05",
+    "notes": "U.S. Soccer-authored document (copyright 2016 U.S. Soccer) hosted on US Youth Soccer's site; no copy of the PDF was found on ussoccer.com itself. The chart on p.12 lists U6/U7/U8 with 'Game Time 4x10'. Small-sided standards 'will be mandated in August 2017'; the 50% playing-time line sits in the 'Player Development Philosophy' section which the document says is 'not currently mandated'. No referee required at 4v4.",
+    "additional_sources": [
+      {
+        "url": "https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer",
+        "title": "U.S. Soccer: Five Things to Know: How Small-Sided Standards Will Change Youth Soccer (Aug 2017)"
+      }
+    ]
+  },
+  {
+    "organisation": "U.S. Soccer (Player Development Initiatives)",
+    "country": "United States",
+    "age_group": "U9, U10",
+    "format": "7v7",
+    "players_on_field": 7,
+    "match_length_minutes": 50,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "2 halves of 25 minutes; 10 minute halftime; no added time"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Deliberate heading not allowed in 7v7 games; indirect free kick to opponents from the spot of the offence (if in goal area, taken on the goal area line).",
+    "substitution_rule": "Substitutions are unlimited and can occur at any stoppage.",
+    "minimum_playing_time_rule": "Philosophy (best practice, not mandated): every player should play a minimum of 50% of the time in each game.",
+    "build_out_or_retreat_line": "Build-out line used (equidistant between penalty area line and halfway line). Opponents must retreat behind it when the goalkeeper has the ball in hand or on a goal kick; goalkeeper punts and drop kicks not allowed (indirect free kick). Offside applies only between the build-out line and the goal line.",
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2023/09/Player-Development-Initiatives-2017.pdf",
+    "source_title": "U.S. Soccer, Player Development Initiatives (February 2017) - 7v7 Standards of Play",
+    "quote": "7v7 (6 field players and 1 goalkeeper) ... Substitutions are unlimited and can occur at any stoppage ... 2 halves; 25 minutes halves; 10 minute halftime; No added time",
+    "retrieved_date": "2026-10-05",
+    "notes": "Game may not start or continue with fewer than 5 players on a team. Roster guidance: no more than 12 players (philosophy, not mandated). Field 55-65 x 35-45 yards; max goal 6.5 ft x 18.5 ft. The ussoccer.com story describes the build-out line as '14-yards in front of each goal'; the PDF says 'equidistant between the penalty area line and halfway line' - treat the yardage as approximate.",
+    "additional_sources": [
+      {
+        "url": "https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer",
+        "title": "U.S. Soccer: Five Things to Know: How Small-Sided Standards Will Change Youth Soccer (Aug 2017)"
+      }
+    ]
+  },
+  {
+    "organisation": "U.S. Soccer (Player Development Initiatives)",
+    "country": "United States",
+    "age_group": "U11",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": 60,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "2 halves of 30 minutes; 10 minute halftime; no added time"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Deliberate heading is not allowed in U11 games; indirect free kick to opponents from the spot of the offence.",
+    "substitution_rule": "Substitutions are unlimited and can occur at any stoppage.",
+    "minimum_playing_time_rule": "Philosophy (best practice, not mandated): every player should play a minimum of 50% of the time in each game.",
+    "build_out_or_retreat_line": "No build-out line specified for 9v9. Offside applies (standard Law 11).",
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2023/09/Player-Development-Initiatives-2017.pdf",
+    "source_title": "U.S. Soccer, Player Development Initiatives (February 2017) - 9v9 Standards of Play",
+    "quote": "Deliberate heading is not allowed in U11 games. Heading is currently allowed in U12 games without limitations but membership is empowered to limit or ban heading",
+    "retrieved_date": "2026-10-05",
+    "notes": "Chart labels columns U11 and U12 separately; both are 9v9 with identical format/duration/ball, but the heading rule differs, so they are recorded as separate rows. Game may not start or continue with fewer than 6 players. Roster guidance: no more than 16 (philosophy). Field 70-80 x 45-55 yards; max goal 7 ft x 21 ft.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "U.S. Soccer (Player Development Initiatives)",
+    "country": "United States",
+    "age_group": "U12",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": 60,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "2 halves of 30 minutes; 10 minute halftime; no added time"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Heading allowed in U12 games without limitation under the PDI, but member organisations are empowered to limit or ban it at this level.",
+    "substitution_rule": "Substitutions are unlimited and can occur at any stoppage.",
+    "minimum_playing_time_rule": "Philosophy (best practice, not mandated): every player should play a minimum of 50% of the time in each game.",
+    "build_out_or_retreat_line": "No build-out line specified for 9v9. Offside applies (standard Law 11).",
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2023/09/Player-Development-Initiatives-2017.pdf",
+    "source_title": "U.S. Soccer, Player Development Initiatives (February 2017) - 9v9 Standards of Play",
+    "quote": "9v9 (8 field players and 1 goalkeeper) ... 2 halves; 30 minutes halves; 10 minute halftime; No added time",
+    "retrieved_date": "2026-10-05",
+    "notes": "See U11 row. Member bodies (e.g. AYSO, US Youth Soccer) apply their own heading rules at 12U/U12 - see their rows.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "6U",
+    "format": "4v4",
+    "players_on_field": 4,
+    "match_length_minutes": 20,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 10,
+      "note": "Two equal halves not to exceed 10 minutes each; half-time 5-10 minutes; no added time; playing time can be less when managed by coaches and parents"
+    },
+    "ball_size": 3,
+    "goalkeeper": false,
+    "heading_rule": "Heading banned (practices and matches) for all division players 11U and below (12U and below for programs without single-age divisions); deliberate header = indirect free kick; no cautions/send-offs for heading infractions.",
+    "substitution_rule": "Substitution permitted approximately midway through each half and at half-time (the AYSO 'quarter' system); coach may substitute as many or none, including previously substituted players, as long as all eligible players meet minimum playing requirements.",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime. Late arrivals: arriving in 1st quarter must play 2 of remaining 3 quarters; arriving in 2nd/3rd quarter must play at least 1 quarter. Regions may adopt the optional 'three-quarter rule' (no player plays an entire game unless all others play at least three quarters).",
+    "build_out_or_retreat_line": "No build-out line at 6U. No offside. Throw-in replaced by pass-in.",
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - Chapter 2 National Rules & Regulations (07/2023), Art. I.B, I.C, I.F, I.I, II.C; Chapter 8 '4V4 Standards of Play'",
+    "quote": "Except as noted in Article I.C.3 all eligible team members in attendance at AYSO matches must play at least half of the match, excluding overtime.",
+    "retrieved_date": "2026-10-05",
+    "notes": "AMBIGUOUS DURATION: Rules & Regulations Art. I.B.1 says matches are 'two equal halves' with max 10-minute halves for 6U, and the Chapter 8 '4V4 Standards of Play' repeats '2 equal halves not to exceed 10 minutes each (6U)'. However the US Soccer PDI chart reproduced in the same Reference Book (p.8:50) shows '4x10' for 6U-8U. The AYSO-specific text (2 x 10 = 20 min) is recorded here. Recommended team size 6 max / 5 min. Ball: size 3, 23.0-25.0 in, 10-12 oz. Three-quarter rule option is in the Standard Regional Policies & Protocols, Art. 7 footnote 4.",
+    "additional_sources": [
+      {
+        "url": "https://aysovolunteers.org/wp-content/uploads/2023/11/PandPs-from-AYSO-Reference-Book-2023-1111-Final.pdf",
+        "title": "AYSO Standard Regional Policies and Protocols (12/2020, extract published 11/2023) - Art. 7.B.4 and footnote 4 (three-quarter rule)"
+      },
+      {
+        "url": "https://ayso.org/faqs-support/",
+        "title": "AYSO FAQs & Support - 'Every player on every team must play at least 50 percent of every game.'"
+      }
+    ]
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "8U",
+    "format": "4v4 (Regions may opt for 5v5, no goalkeeper)",
+    "players_on_field": 4,
+    "match_length_minutes": 40,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 20,
+      "note": "Two equal halves not to exceed 20 minutes each; half-time 5-10 minutes; no added time"
+    },
+    "ball_size": 3,
+    "goalkeeper": false,
+    "heading_rule": "Heading banned (practices and matches) for all division players 11U and below; deliberate header = indirect free kick.",
+    "substitution_rule": "Substitution permitted approximately midway through each half and at half-time ('quarter' system) for 8U, 10U, 12U and 14U; unlimited re-entry so long as all players meet minimum playing requirements.",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime; optional regional three-quarter rule.",
+    "build_out_or_retreat_line": "No build-out line at 8U. No offside. Regions may use throw-ins, pass-ins or dribble-ins.",
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.F, I.I, II.C.1-2",
+    "quote": "Regions may allow 8U specific teams the option to play 5v5, with no goalkeeper, instead of 4v4, with no goalkeeper.",
+    "retrieved_date": "2026-10-05",
+    "notes": "Same duration ambiguity as 6U (R&R: 2 x 20 max; reproduced US Soccer chart: 4x10). Recommended team size 6 max / 5 min. The age-compliance grid also lists 7U, 9U, 11U etc. as configurable divisions, but the R&R duration/ball tables are given only for 6U/8U/10U/12U/14U/16U/19U.",
+    "additional_sources": [
+      {
+        "url": "https://aysovolunteers.org/wp-content/uploads/2021/12/Age-Compliance-and-Team-Size-Grid-for-All-Play-Types.pdf",
+        "title": "AYSO Age Compliance and Team Size Grid for All Play Types (MY2021)"
+      }
+    ]
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "10U",
+    "format": "7v7",
+    "players_on_field": 7,
+    "match_length_minutes": 50,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "Two equal halves not to exceed 25 minutes each; half-time 5-10 minutes; no added time"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Heading banned (practices and matches) for 11U and below; deliberate header = indirect free kick (taken on goal-area line if inside opponents' goal area).",
+    "substitution_rule": "Substitution permitted approximately midway through each half and at half-time ('quarter' system); unlimited re-entry subject to minimum playing requirements.",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime; optional regional three-quarter rule.",
+    "build_out_or_retreat_line": "Build-out line for 9U and 10U, placed equidistant between the top of the penalty area and the halfway line; opponents must retreat behind it on goal kicks and when the goalkeeper has possession; goalkeeper may not punt or drop-kick (indirect free kick); offside is judged from the build-out line, not the halfway line.",
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.F, I.I, I.K, I.L, II.C.1",
+    "quote": "The build-out line shall be placed across the field equidistant between the top of the penalty area and the halfway line.",
+    "retrieved_date": "2026-10-05",
+    "notes": "Recommended team size 10 max / 8 min. Game may not start or continue with fewer than 5 players (Ch. 8, 7v7 Standards of Play). Ball: size 4, 25.0-26.5 in, 12-14 oz. Unlike U.S. Soccer's PDI, AYSO's goalkeeper/goal-kick taker does not have to wait for opponents to retreat.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "12U",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": 60,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "Two equal halves not to exceed 30 minutes each; half-time 5-10 minutes; no added time"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Heading banned for '11U and below (12U and below for programs without single age divisions)' - i.e. in standard two-year 12U divisions heading is banned in practices and matches; deliberate header = indirect free kick.",
+    "substitution_rule": "Substitution permitted approximately midway through each half and at half-time ('quarter' system); unlimited re-entry subject to minimum playing requirements.",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime; optional regional three-quarter rule.",
+    "build_out_or_retreat_line": "No build-out line at 12U (build-out line applies to 9U and 10U only). Offside applies.",
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.F, I.I, II.C.1",
+    "quote": "heading is banned for all division players 11U and below (12U and below for programs without single age divisions) in both practices and matches.",
+    "retrieved_date": "2026-10-05",
+    "notes": "AMBIGUOUS HEADING: whether 12U is covered depends on whether a Region runs single-age (11U/12U) or two-year (12U) divisions. Recommended team size 12 max / 10 min. Game may not start or continue with fewer than 6 players.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "14U",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 70,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 35,
+      "note": "Two equal halves not to exceed 35 minutes each; half-time 5-10 minutes"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Heading in practice for 14U limited to a maximum of 30 minutes per week and no more than 15-20 headers per player; no restriction on heading in matches.",
+    "substitution_rule": "Standard: substitution midway through each half and at half-time ('quarter' system). Alternatively 'Monitored Substitution' (free substitution at any stoppage) is permitted in 14U/16U/19U only if an independent time monitor ensures every participant plays at least one half of every match.",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime. Under free substitution, a late arrival before 17.5 min must play 50% (35 min); arriving between 17.5 and 52.5 min must play 25% (17.5 min).",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.C.3.c, I.F, I.I, II.C.1; Chapter 13 'Monitored Substitution'",
+    "quote": "Free substitution will be permitted in the 14U/16U/19U Program, but only if ... every participant plays at least one half of every match",
+    "retrieved_date": "2026-10-05",
+    "notes": "Recommended team size 15 max / 12 min. Ball: size 5, 26.5-28.0 in, 14-16 oz. Match may not commence/continue unless both teams can field at least 7 players (Art. I.A.2).",
+    "additional_sources": []
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "16U",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 80,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 40,
+      "note": "Two equal halves not to exceed 40 minutes each; half-time 5-10 minutes"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "No heading restriction stated for 16U.",
+    "substitution_rule": "Quarter-system substitution or Monitored Substitution (free substitution at any stoppage with an independent time monitor ensuring every participant plays at least one half).",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.F, II.C.1; Chapter 13 'Monitored Substitution'",
+    "quote": "Matches shall be of two equal halves, not to exceed the following maximum durations: ... 16U 40 minutes; 19U 45 minutes",
+    "retrieved_date": "2026-10-05",
+    "notes": "Recommended team size 18 max / 12 min.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "AYSO (American Youth Soccer Organization)",
+    "country": "United States",
+    "age_group": "19U",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 90,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 45,
+      "note": "Two equal halves not to exceed 45 minutes each; half-time 5-10 minutes"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "No heading restriction stated for 19U.",
+    "substitution_rule": "Quarter-system substitution or Monitored Substitution (free substitution at any stoppage with an independent time monitor ensuring every participant plays at least one half).",
+    "minimum_playing_time_rule": "Everyone Plays: all eligible team members in attendance must play at least half of the match, excluding overtime.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://aysovolunteers.org/wp-content/uploads/2024/04/AYSO-Reference-Book-2024-0420.pdf",
+    "source_title": "AYSO Reference Book (20 April 2024) - National Rules & Regulations (07/2023), Art. I.B.1, I.C.1, I.F, II.C.1",
+    "quote": "19U 11-a-side 18 12",
+    "retrieved_date": "2026-10-05",
+    "notes": "Recommended team size 18 max / 12 min. Chapter 8 '11 x 11 Standards of Play' gives 45-minute halves for '18U'; R&R Art. I.B.1 uses the '19U' label.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "6 years of age and under (U6)",
+    "format": "Not more than 4 per side (3 strongly recommended)",
+    "players_on_field": 4,
+    "match_length_minutes": 24,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 4,
+      "length_minutes": 6,
+      "note": "4 x 6-minute quarters; no overtime; ties stand"
+    },
+    "ball_size": 3,
+    "goalkeeper": null,
+    "heading_rule": "Rule 305: players 10 and under shall not head the ball directly from the air in any match, nor practise heading; deliberate header = indirect free kick (ball moved outside penalty area if inside it). Mandatory for USYS-conducted events; State Associations 'strongly encouraged' to adopt.",
+    "substitution_rule": "Rule 302: substitutions unlimited except where a special competition specifies otherwise; made with the referee's consent at any stoppage in play.",
+    "minimum_playing_time_rule": "No national minimum for all play. The policy's definition of a 'recreational league' requires that 'each player must play at least one-half of each game except for reasons of injury, illness, or discipline' (Rule 101 Sec. 3(16)(D)).",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 301-303, 305",
+    "quote": "6 years of age and under 4 - 6' quarters NONE #3 23-24 in. 11-12 ozs. No more than 4, 3 strongly recommended",
+    "retrieved_date": "2026-10-05",
+    "notes": "Rule 303 Sec. 2 says U6/U8/U10 game length is 'As Modified Rules specify' (USYSA 'Development Player Program - Modified Playing Rules'), while Sec. 1 gives the figures recorded here; the Modified Playing Rules document itself was not located. Goalkeeper not addressed in the policy. Ball #3: 23-24 in, 11-12 oz. USYS has no U9 age group in Rule 104 (groups jump from U8 to U10).",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "8 years of age and under (U8)",
+    "format": "Not more than 5 per side (4 strongly recommended)",
+    "players_on_field": 5,
+    "match_length_minutes": 48,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 4,
+      "length_minutes": 12,
+      "note": "4 x 12-minute quarters; no overtime; ties stand"
+    },
+    "ball_size": 3,
+    "goalkeeper": null,
+    "heading_rule": "Rule 305: no heading in matches or practice for players 10 and under; deliberate header = indirect free kick.",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 301-303, 305",
+    "quote": "8 years of age and under 4 -12' quarters NONE #3 23-24 in. 11-12 ozs. No more than 5, 4 strongly recommended",
+    "retrieved_date": "2026-10-05",
+    "notes": "Note the USYS table differs from the U.S. Soccer PDI (4x10, 4v4). Rule 301 Sec. 2: State Associations may not approve games for U10 and under with more than 8 players per side.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "10 years of age and under (U10)",
+    "format": "Not more than 7 per side (6 strongly recommended)",
+    "players_on_field": 7,
+    "match_length_minutes": 50,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "Two 25-minute halves; no overtime; ties stand"
+    },
+    "ball_size": 4,
+    "goalkeeper": null,
+    "heading_rule": "Rule 305: no heading in matches or practice for players 10 and under; deliberate header = indirect free kick.",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 301-303, 305",
+    "quote": "10 years of age and under Two 25' halves NONE #4 25-26 in. 11-13 ozs. No more than 7, 6 strongly recommended",
+    "retrieved_date": "2026-10-05",
+    "notes": "Ball #4: 25-26 in, 11-13 oz. Build-out line not mentioned in this policy.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "11 years of age and under (U11)",
+    "format": "Not more than 11 per side (8 strongly recommended)",
+    "players_on_field": 11,
+    "match_length_minutes": 60,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "Two 30-minute halves; overtime (tournaments) two 10-minute halves"
+    },
+    "ball_size": 4,
+    "goalkeeper": null,
+    "heading_rule": "Rule 305: players age 11 and 12 permitted to head the ball in matches; practice heading limited so no player heads more than 25 times per week.",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 302, 303, 305",
+    "quote": "11 years of age and under Two 30' halves Two 10' halves #4 25-26 in. 11-13 ozs. No more than 11, 8 strongly recommended",
+    "retrieved_date": "2026-10-05",
+    "notes": "players_on_field records the stated maximum (11); the body 'strongly recommends' 8 (9v9 incl. GK is the common reading but the policy does not say '9v9'). This differs from the U.S. Soccer PDI (9v9). Tournament tie-breaker: FIFA kicks from the penalty mark.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "12 years of age and under (U12)",
+    "format": "Not more than 11 per side (8 strongly recommended)",
+    "players_on_field": 11,
+    "match_length_minutes": 60,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "Two 30-minute halves; overtime two 10-minute halves"
+    },
+    "ball_size": 4,
+    "goalkeeper": null,
+    "heading_rule": "Rule 305: players age 11 and 12 permitted to head the ball in matches; practice heading limited to 25 headers per player per week.",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 302, 303, 305",
+    "quote": "Players age 11 and age 12 shall be permitted to head the ball in any match or competition.",
+    "retrieved_date": "2026-10-05",
+    "notes": "See U11 row for the players-per-side caveat.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "13 and 14 years of age and under (U13, U14)",
+    "format": "11v11 (FIFA Laws of the Game; no player-count modification stated)",
+    "players_on_field": 11,
+    "match_length_minutes": 70,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 35,
+      "note": "Two 35-minute halves; overtime two 10-minute halves"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Rule 305: players 13 and older permitted to head the ball in matches and practice.",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent (except where a special competition specifies otherwise).",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 301-303, 305",
+    "quote": "14 years of age and under Two 35' halves Two 10' halves #5 27-28 in. 14-16 ozs.",
+    "retrieved_date": "2026-10-05",
+    "notes": "The table has no 'Number of Players' entry for U13+; Rule 301 Sec. 1 applies FIFA Laws (11v11) except as modified. Ball #5: 27-28 in, 14-16 oz.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "15 and 16 years of age and under (U15, U16)",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 80,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 40,
+      "note": "Two 40-minute halves; overtime two 15-minute halves"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Permitted (players 13 and older).",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 302, 303",
+    "quote": "16 years of age and under Two 40' halves Two 15' halves #5 27-28 in. 14-16 ozs.",
+    "retrieved_date": "2026-10-05",
+    "notes": "",
+    "additional_sources": []
+  },
+  {
+    "organisation": "US Youth Soccer (USYSA)",
+    "country": "United States",
+    "age_group": "17, 18 and 19 years of age and under (U17, U18, U19)",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 90,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 45,
+      "note": "Two 45-minute halves; overtime two 15-minute halves"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Permitted (players 13 and older).",
+    "substitution_rule": "Rule 302: unlimited substitutions at any stoppage with the referee's consent.",
+    "minimum_playing_time_rule": "Recreational-league definition only: each player must play at least one-half of each game except for injury, illness or discipline.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2025/12/Policy-on-Players-and-Playing-Rules-_APP-12.05.2025.pdf",
+    "source_title": "US Youth Soccer Policy on Players and Playing Rules, as of December 5, 2025 - Rules 302, 303",
+    "quote": "19 years of age and under Two 45' halves Two 15' halves #5 27-28 in. 14-16 ozs.",
+    "retrieved_date": "2026-10-05",
+    "notes": "",
+    "additional_sources": []
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 7 and Under 8",
+    "format": "5v5 (maximum permitted format)",
+    "players_on_field": 5,
+    "match_length_minutes": 40,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 20,
+      "note": "SCORY: minimum 10 / maximum 20 minutes per half, or quarters of minimum 5 / maximum 10 minutes; maximum playing time in one day 40 minutes (development fixtures) or 60 minutes (tournaments/trophy events); half-time not more than 5 minutes (Mini-Soccer Handbook)"
+    },
+    "ball_size": 3,
+    "goalkeeper": true,
+    "heading_rule": "No deliberate heading in matches (U7-U9 from 2024-25; U7-U10 from 2025-26). Deliberate header = indirect free kick at the point of the header, or from the nearest side line of the penalty area if inside the player's own penalty area. No heading in training in the foundation phase.",
+    "substitution_rule": "Mini-Soccer: any number of substitutions may be used at any time with the referee's permission (roll-on roll-off); entry only during a stoppage; a replaced player may return; match-day squad must not exceed double the team size.",
+    "minimum_playing_time_rule": "Not mandated. Mini-Soccer and Youth Futsal Handbook best practice: all team members should receive equal playing time where possible, with a recommendation of at least 50% per player per game.",
+    "build_out_or_retreat_line": "Retreat line: on goal kicks the team without the ball retreats to the halfway line until the ball is in play. No offside. Throw-ins replaced by pass or dribble-in (2025/26).",
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "For Mini-Soccer - any number of substitutions may be used at any time with the permission of the referee.",
+    "retrieved_date": "2026-10-05",
+    "notes": "Squad of 10 or less for U7-U8 (Handbook). Minimum players to constitute a team: 4 (SCORY Rule 20(D)). U7-U10 do not play in leagues; maximum 3 trophy events per season. Ball size 3 confirmed in both SCORY Rule 18(C) table and the Handbook. FA 'Future Fit' changes to youth formats are announced for the 2026-27 season onwards - values here are 2025-26.",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/cfa/westridingfa/files/clubs/mini-soccer-handbook-2025.ashx",
+        "title": "The FA Mini-Soccer and Youth Futsal Handbook, version updated August 2025 (hosted by West Riding County FA on thefa.com)"
+      },
+      {
+        "url": "https://www.englandfootball.com/articles/2024/May/17/New-heading-rules-for-grassroots-football-youth-matches",
+        "title": "England Football / The FA: New heading rules for U7-U11 youth football (17 May 2024)"
+      },
+      {
+        "url": "https://www.thefa.com/-/media/thefacom-new/files/rules-and-regulations/2021-22/heading-guidance/youth-heading-guidance-chart.ashx",
+        "title": "The FA Youth Heading Guidance chart (2021-22) - ball size and format by age"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 9 and Under 10",
+    "format": "7v7 (maximum permitted format)",
+    "players_on_field": 7,
+    "match_length_minutes": 50,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "SCORY: minimum 20 / maximum 25 minutes per half, or quarters of minimum 10 / maximum 12.5 minutes; maximum playing time in one day 60 minutes (development fixtures) or 90 minutes (tournaments)"
+    },
+    "ball_size": 3,
+    "goalkeeper": true,
+    "heading_rule": "No deliberate heading in matches: U9 from 2024-25, U10 from 2025-26; indirect free kick sanction as for U7-U8.",
+    "substitution_rule": "Mini-Soccer: any number of substitutions at any time with the referee's permission (roll-on roll-off); entry only at a stoppage; replaced players may return.",
+    "minimum_playing_time_rule": "Not mandated. Handbook best practice: equal playing time where possible, at least 50% per player per game.",
+    "build_out_or_retreat_line": "Retreat line to the halfway line on goal kicks. No offside.",
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "U7s - U8s 40 minutes; U9s - U10s 60 minutes. Children should not exceed the maximum playing time for their age in any one day.",
+    "retrieved_date": "2026-10-05",
+    "notes": "Quote is from the Mini-Soccer Handbook (Law 7). Squad of 14 or less. Minimum 5 players to constitute a team. SCORY defines Mini Soccer as U7-U10 and Youth Football as U11-U18.",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/cfa/westridingfa/files/clubs/mini-soccer-handbook-2025.ashx",
+        "title": "The FA Mini-Soccer and Youth Futsal Handbook, version updated August 2025"
+      },
+      {
+        "url": "https://www.englandfootball.com/articles/2024/May/17/New-heading-rules-for-grassroots-football-youth-matches",
+        "title": "England Football / The FA: New heading rules for U7-U11 youth football (17 May 2024)"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 11",
+    "format": "9v9 (maximum permitted format)",
+    "players_on_field": 9,
+    "match_length_minutes": 60,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "Minimum 20 / maximum 30 minutes per half; maximum playing time in one day 80 minutes (development fixtures) or 120 minutes (tournaments); half-time not to exceed 15 minutes"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Deliberate heading permitted in matches in 2025-26; the FA phase-out extends to U11 from the 2026-27 season. Heading should not be introduced in training at U11.",
+    "substitution_rule": "Youth Football (U11-U18): where the competition allows return ('repeat') substitutes, a club may use up to [3 from 3 / 4 from 4 / 5 from 5 / 6 from 6 / 7 from 7] substitutes and a substituted player may return at any time under Law 3.",
+    "minimum_playing_time_rule": "None mandated in SCORY for Youth Football.",
+    "build_out_or_retreat_line": "Not specified in SCORY for 9v9 (SCORY refers to The FA's Guide to 9v9 Football).",
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "For Under 11s - Under 18s - a Club may use up to [3 from 3 substitute Players] ... [7 from 7 substitute Players].",
+    "retrieved_date": "2026-10-05",
+    "notes": "Ball size 4 for U11-U12 and U13-U14 taken from the SCORY Rule 18(C) table (rotated page; extracted text is mirrored but legible) and corroborated by the FA Youth Heading Guidance chart. Minimum 6 players to constitute a team. U11 is 'development focussed' (no league table).",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/thefacom-new/files/rules-and-regulations/2021-22/heading-guidance/youth-heading-guidance-chart.ashx",
+        "title": "The FA Youth Heading Guidance chart (2021-22) - ball size and format by age"
+      },
+      {
+        "url": "https://www.englandfootball.com/articles/2024/May/17/New-heading-rules-for-grassroots-football-youth-matches",
+        "title": "England Football / The FA: New heading rules for U7-U11 youth football (17 May 2024)"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 12",
+    "format": "9v9 (maximum permitted format)",
+    "players_on_field": 9,
+    "match_length_minutes": 60,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 30,
+      "note": "Minimum 20 / maximum 30 minutes per half; maximum playing time in one day 80 minutes (development fixtures, if applicable) or 120 minutes (tournaments)"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Deliberate heading permitted in matches. Training guidance: heading 'remains a low priority'; if introduced, max one session per month, max 5 headers, light balls, unopposed.",
+    "substitution_rule": "Youth Football repeat substitutions where the competition allows (up to 3-7 from 3-7); otherwise per Laws of the Game.",
+    "minimum_playing_time_rule": "None mandated in SCORY for Youth Football.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "Under 12: N/A N/A 20 30 80 (if applicable) 120 - Any varieties including one season long league table",
+    "retrieved_date": "2026-10-05",
+    "notes": "Competition structure may include one season-long league table from U12.",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/thefacom-new/files/rules-and-regulations/2021-22/heading-guidance/youth-heading-guidance-chart.ashx",
+        "title": "The FA Youth Heading Guidance chart (2021-22)"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 13 and Under 14",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 70,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 35,
+      "note": "Minimum 25 / maximum 35 minutes per half; maximum playing time in one day 100 minutes (development fixtures) or 150 minutes (tournaments)"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": "Permitted in matches; graduated training guidance (U13: max one session per week, max 5 headers; U14: max 10 headers per session, one session per week).",
+    "substitution_rule": "Youth Football repeat substitutions where the competition allows (up to 3-7 from 3-7).",
+    "minimum_playing_time_rule": "None mandated in SCORY for Youth Football.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "Under 13 and Under 14: N/A N/A 25 35 100 150",
+    "retrieved_date": "2026-10-05",
+    "notes": "Minimum 7 players to constitute a team. Ball size 4 per SCORY 18(C) table and FA heading guidance chart (U13 and U14 size 4).",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/thefacom-new/files/rules-and-regulations/2021-22/heading-guidance/youth-heading-guidance-chart.ashx",
+        "title": "The FA Youth Heading Guidance chart (2021-22)"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 15 and Under 16",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 80,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 40,
+      "note": "Minimum 25 / maximum 40 minutes per half; maximum playing time in one day 100 minutes (development fixtures) or 150 minutes (tournaments)"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Permitted in matches; training guidance max 10 headers per session, one session per week.",
+    "substitution_rule": "Youth Football repeat substitutions where the competition allows (up to 3-7 from 3-7).",
+    "minimum_playing_time_rule": "None mandated in SCORY for Youth Football.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "Under 15 and Under 16: N/A N/A 25 40 100 150",
+    "retrieved_date": "2026-10-05",
+    "notes": "Ball size 5 from U15 per SCORY 18(C) table and FA heading guidance chart.",
+    "additional_sources": [
+      {
+        "url": "https://www.thefa.com/-/media/thefacom-new/files/rules-and-regulations/2021-22/heading-guidance/youth-heading-guidance-chart.ashx",
+        "title": "The FA Youth Heading Guidance chart (2021-22)"
+      }
+    ]
+  },
+  {
+    "organisation": "The Football Association (The FA)",
+    "country": "England",
+    "age_group": "Under 17 and Under 18",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": 90,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 45,
+      "note": "Minimum 25 / maximum 45 minutes per half; maximum playing time in one day 120 minutes (development fixtures) or 180 minutes (tournaments)"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": "Permitted in matches; training guidance max 10 headers per session, one session per week.",
+    "substitution_rule": "Where a competition does not allow return substitutes (U17-U18): a club may name up to [3-7] substitutes of whom not more than [3-7] may be used. Where return substitutes are allowed: up to [3-7 from 3-7] with re-entry.",
+    "minimum_playing_time_rule": "None mandated in SCORY for Youth Football.",
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.thefa.com/-/media/files/thefaportal/governance-docs/rules-of-the-association/2025-26/30---standard-code-of-rules-for-mini-soccer-and-youth-football-competitions.ashx",
+    "source_title": "The FA Handbook 2025-26, Section 30 - Standard Code of Rules for Mini Soccer and Youth Football Competitions (SCORY), Rules 18(C), 20(A), 20(F)",
+    "quote": "For Under 17s and Under 18s - a Club may name up to [ ] (3, 4, 5, 6, 7) substitute Players",
+    "retrieved_date": "2026-10-05",
+    "notes": "Bracketed values in SCORY are chosen by each sanctioned competition.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Football Australia (Coles MiniRoos Club Football)",
+    "country": "Australia",
+    "age_group": "Under 6 & 7",
+    "format": "4v4",
+    "players_on_field": 4,
+    "match_length_minutes": 40,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 20,
+      "note": "20 min halves; minimum 5 min half-time break"
+    },
+    "ball_size": 3,
+    "goalkeeper": false,
+    "heading_rule": null,
+    "substitution_rule": "Maximum of three substitutes. Players may be rotated on and off at any time, including while the ball is in play (player off before substitute on).",
+    "minimum_playing_time_rule": "Equal playing time should be a priority ensuring all players regardless of age, gender and/or ability get to take the field (stated as a priority, not a quantified minimum).",
+    "build_out_or_retreat_line": "No offside. On goal-line restarts opponents must retreat to the halfway line; no throw-ins or corners.",
+    "source_url": "https://playfootball.com.au/sites/default/files/2025-10/FA0708_MiniRoos_Doc_Update_2.pdf",
+    "source_title": "Football Australia - Coles MiniRoos Club Football: National Playing Formats and Rules (PDF published Oct 2025; text states 'Effective from 1 January 2015')",
+    "quote": "The number of players: 4-a-side with no goalkeeper, Maximum of three substitutes ... Ball size: Size 3 ... Duration of the game: 20 min halves, Minimum 5 min half-time break",
+    "retrieved_date": "2026-10-05",
+    "notes": "Field 30m x 20m; goals 2m x 1m. No heading rule appears anywhere in the document (set to null). No match results published; no points tables. A separate Football Australia 'Game Time Policy Template' (Club Changer programme) suggests EQUAL GAME TIME for MiniRoos U6-U11 and MINIMUM HALF GAME TIME for U12-U18, but it is a club-adjustable template, not a national rule.",
+    "additional_sources": [
+      {
+        "url": "https://footballaustralia.com.au/sites/ffa/files/2023-06/Game%20Time%20Policy%20Template.pdf",
+        "title": "Football Australia Club Changer - Game Time Policy Template (template, not a binding rule)"
+      },
+      {
+        "url": "https://playfootball.com.au/miniroos/FAQs",
+        "title": "Play Football - MiniRoos FAQs ('small sided football games (4v4, 7v7 & 9v9)')"
+      }
+    ]
+  },
+  {
+    "organisation": "Football Australia (Coles MiniRoos Club Football)",
+    "country": "Australia",
+    "age_group": "Under 8 & 9",
+    "format": "7v7",
+    "players_on_field": 7,
+    "match_length_minutes": 40,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 20,
+      "note": "20 min halves; minimum 5 min half-time break"
+    },
+    "ball_size": 3,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "Maximum of four substitutes. Players may be rotated on and off at any time during the game.",
+    "minimum_playing_time_rule": "Equal playing time should be a priority (all age groups U6-U11).",
+    "build_out_or_retreat_line": "No offside. Goalkeeper may not kick or drop-kick from hands; on goal kicks and goalkeeper distribution opponents must be at least 10 m outside the penalty area until the ball is in play.",
+    "source_url": "https://playfootball.com.au/sites/default/files/2025-10/FA0708_MiniRoos_Doc_Update_2.pdf",
+    "source_title": "Football Australia - Coles MiniRoos Club Football: National Playing Formats and Rules",
+    "quote": "The number of players: 7-a-side including a goalkeeper, Maximum of four substitutes ... Ball size: Size 3 ... Duration of the game: 20 min halves",
+    "retrieved_date": "2026-10-05",
+    "notes": "Field min 40x30 m, best practice 45x35 m, max 50x40 m; goals 3m x 2m; penalty area 5m x 12m. Throw-ins and corners used from U8.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Football Australia (Coles MiniRoos Club Football)",
+    "country": "Australia",
+    "age_group": "Under 10 & 11",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": 50,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "25 min halves; minimum 5 min half time break"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "Maximum of five substitutes. Players may be rotated on and off at any time during the game.",
+    "minimum_playing_time_rule": "Equal playing time should be a priority (all age groups U6-U11).",
+    "build_out_or_retreat_line": "Offside not mentioned for U10 & 11 (no-offside statements appear only for U6-7 and U8-9). Goalkeeper may not kick or drop-kick from hands; opponents 10 m outside penalty area on goalkeeper restarts. Penalty kicks from an 8 m mark.",
+    "source_url": "https://playfootball.com.au/sites/default/files/2025-10/FA0708_MiniRoos_Doc_Update_2.pdf",
+    "source_title": "Football Australia - Coles MiniRoos Club Football: National Playing Formats and Rules",
+    "quote": "The number of players: 9-a-side including a goalkeeper, Maximum of five substitutes ... Ball size: Size 4 ... Duration of the game: 25 min halves",
+    "retrieved_date": "2026-10-05",
+    "notes": "Field max 70x50 m, best practice 65x45 m, min 60x40 m; goal max 5m x 2m; penalty area 10m x 20m. AMBIGUOUS: the U10-11 page does not state whether offside applies.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Canada Soccer (Grassroots Standards)",
+    "country": "Canada",
+    "age_group": "U6-U7 (Fundamentals)",
+    "format": "3v3",
+    "players_on_field": 3,
+    "match_length_minutes": 30,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 15,
+      "note": "Maximum 30 minutes: 2 x 15 min or 4 x 7.5 min; maximum match time per player per day 60 minutes"
+    },
+    "ball_size": 3,
+    "goalkeeper": null,
+    "heading_rule": null,
+    "substitution_rule": "Unlimited (on the fly or at designated stoppages).",
+    "minimum_playing_time_rule": "Fair Playing Time for All Players; coaches should target a minimum of 50% playing time for each player. Exception: at U7, where the match-day roster allows more players, players may not reach 50% but should play as close to equal time as possible.",
+    "build_out_or_retreat_line": "Retreat line: yes (halfway line). No offside. Sideline restarts by dribble-in or pass-in.",
+    "source_url": "https://canadasoccer.com/wp-content/uploads/resources/grassroots/2024-CS-GrassrootsStandards-EN.pdf",
+    "source_title": "Canada Soccer Grassroots Standards (2024 edition; mandatory for all member organizations in advance of the 2026 season)",
+    "quote": "Match Duration (maximum): 30 minutes (2x15 min, or 4x7.5 min)",
+    "retrieved_date": "2026-10-05",
+    "notes": "Goalkeeper not specified for 3v3 (table only marks 'No GK'/'With GK' for the U8-U9 options) - set to null. Heading is not addressed anywhere in the Standards (null). Match-day roster ideal 6, max 9. Festival format; no scores or standings. Pop-up goals, field 18-22 m x 25-30 m.",
+    "additional_sources": [
+      {
+        "url": "https://news.canadasoccer.com/canada-soccer-releases-updated-grassroots-standards",
+        "title": "Canada Soccer releases updated Grassroots Standards (20 Feb 2025) - 'required to align ... by the start of the season 2026'"
+      }
+    ]
+  },
+  {
+    "organisation": "Canada Soccer (Grassroots Standards)",
+    "country": "Canada",
+    "age_group": "U8-U9 (Fundamentals)",
+    "format": "4v4 (no GK) or 5v5 (with GK)",
+    "players_on_field": 5,
+    "match_length_minutes": 40,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 20,
+      "note": "Maximum 40 minutes: 2 x 20 min or 4 x 10 min; maximum match time per player per day 80 minutes"
+    },
+    "ball_size": 3,
+    "goalkeeper": null,
+    "heading_rule": null,
+    "substitution_rule": "Unlimited (on the fly or at designated stoppages).",
+    "minimum_playing_time_rule": "Fair Playing Time for All Players; coaches should target a minimum of 50% playing time for each player. Grassroots players should not play less than 50% of a match.",
+    "build_out_or_retreat_line": "Retreat line: yes (halfway line). No offside. Dribble-in or pass-in from sidelines.",
+    "source_url": "https://canadasoccer.com/wp-content/uploads/resources/grassroots/2024-CS-GrassrootsStandards-EN.pdf",
+    "source_title": "Canada Soccer Grassroots Standards (2024 edition)",
+    "quote": "Match Format: 4v4 (No GK) or 5v5 (With GK) ... Match Duration (maximum): 40 minutes (2x20 min or 4x10 min)",
+    "retrieved_date": "2026-10-05",
+    "notes": "players_on_field = 5 reflects the 5v5 option; 4 if the 4v4 (no GK) option is used. goalkeeper = null because both options are permitted. Match-day roster ideal 8-10, max 12. Festival format mandatory U6-U9.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Canada Soccer (Grassroots Standards)",
+    "country": "Canada",
+    "age_group": "U10-U11 (Learn to Train)",
+    "format": "7v7",
+    "players_on_field": 7,
+    "match_length_minutes": 50,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 25,
+      "note": "Maximum 50 minutes: 2 x 25 min or 4 x 12.5 min; maximum match time per player per day 100 minutes"
+    },
+    "ball_size": "3 or 4",
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "Unlimited (on the fly or at designated stoppages).",
+    "minimum_playing_time_rule": "Fair Playing Time; target minimum 50% playing time for each player; grassroots players should not play less than 50% of a match.",
+    "build_out_or_retreat_line": "Retreat line: yes (one third). No offside. Dribble-in or pass-in from sidelines (players up to U11).",
+    "source_url": "https://canadasoccer.com/wp-content/uploads/resources/grassroots/2024-CS-GrassrootsStandards-EN.pdf",
+    "source_title": "Canada Soccer Grassroots Standards (2024 edition)",
+    "quote": "Canada Soccer requires 'Fair Playing Time' for all players with a target of each player playing at least 50% of each match up to U13.",
+    "retrieved_date": "2026-10-05",
+    "notes": "Ball size listed as '3 or 4'. Match-day roster ideal 10-12, max 14. League format may start at U10 but without scores/standings. Field 30-36 m x 40-55 m.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Canada Soccer (Grassroots Standards)",
+    "country": "Canada",
+    "age_group": "U12-U13 (Learn to Train)",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": 70,
+    "match_length_basis": "maximum",
+    "periods": {
+      "count": 2,
+      "length_minutes": 35,
+      "note": "U12 maximum 70 minutes (2 x 35 or 4 x 17.5); U13 maximum 80 minutes (2 x 40 or 4 x 20); maximum match time per player per day 120 minutes"
+    },
+    "ball_size": "U12: 4; U13: 5",
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "Unlimited (any stoppage).",
+    "minimum_playing_time_rule": "Fair Playing Time; target minimum 50% playing time for each player up to U13.",
+    "build_out_or_retreat_line": "Retreat line: No. Offside: Yes (Law 11 implemented at U12). Throw-ins from sidelines.",
+    "source_url": "https://canadasoccer.com/wp-content/uploads/resources/grassroots/2024-CS-GrassrootsStandards-EN.pdf",
+    "source_title": "Canada Soccer Grassroots Standards (2024 edition)",
+    "quote": "70 minutes (U12) (2x35 min or 4x 17.5 min); 80 minutes (U13) (2x40 min or 4x 20 min)",
+    "retrieved_date": "2026-10-05",
+    "notes": "match_length_minutes records U12 (70); U13 is 80. Match-day roster ideal 14, max 18. Field 45-55 m x 65-75 m. The 2026 Grassroots Program Guide also labels U12 and U13 as 9v9.",
+    "additional_sources": [
+      {
+        "url": "https://canadasoccer.com/wp-content/uploads/2026/02/Canada-Soccer-Grassroots-Program-Guide-EN-26_final.pdf",
+        "title": "Canada Soccer Grassroots Program Guide (2026) - lists U10/U11 (7v7), U12 (9v9), U13 (9v9)"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "First Kicks (4-7 years)",
+    "format": "3v3",
+    "players_on_field": 3,
+    "match_length_minutes": null,
+    "match_length_basis": "range",
+    "match_length_minutes_range": [
+      16,
+      36
+    ],
+    "periods": {
+      "count": null,
+      "length_minutes": null,
+      "note": "2-3 x 8-12 minute games"
+    },
+    "ball_size": 3,
+    "goalkeeper": false,
+    "heading_rule": null,
+    "substitution_rule": "0-1 rolling sub.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "Retreating line: halfway. No offsides, no penalties, no free kicks, no corners; goal kick to defending team; scoring zone 'must be over half way'.",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=4ac7afbf-9cf6-43ba-bc2f-873eaf40eec6",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: First Kicks (U7) 3v3 overview (linked from nzfootball.co.nz WOF 2.0 Resources)",
+    "quote": "FIRST KICKS 3v3 (4-7 YEARS) NO GOALKEEPER ... GAME TIME 2 - 3 x 8 - 12 minute games ... SUBSTITUTIONS 0-1 rolling sub ... RETREATING LINE Halfway",
+    "retrieved_date": "2026-10-05",
+    "notes": "One-page format sheet hosted on NZF's Sporty platform, linked from https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources. WOF 2.0 is being phased in during 2026-2027 (NZF news, 31 July 2025). No heading or playing-time rule on the sheet (null). Pitch 20m x 15m; goal 1.5m x 0.9m to 2m x 1m; no recorded results. The news article labels this 'U6/U7: Station Rotation + 3 vs 3'.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      },
+      {
+        "url": "https://www.nzfootball.co.nz/newsarticle/155974?newsCarouselId=1937259",
+        "title": "NZF: New Zealand Football Announces Updated Whole of Football Framework (31 July 2025)"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "Fun Football (U8-U9 years)",
+    "format": "5v5",
+    "players_on_field": 5,
+    "match_length_minutes": 45,
+    "match_length_basis": "fixed",
+    "periods": {
+      "count": 3,
+      "length_minutes": 15,
+      "note": "3 x 15 minute games"
+    },
+    "ball_size": 3,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "2-3 rolling subs.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "Retreating line: halfway. No offsides, no penalties; indirect free kicks; pass-in from sideline; goal kicks pass or roll with retreating line in action.",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=24b7b378-d731-4676-a1a4-7ce312114e1b",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: Fun Football (U8/U9) 5v5 overview",
+    "quote": "FUN FOOTBALL 5v5 (U8-U9 YEARS) ... GOALKEEPER Yes ... GAME TIME 3 x 15 minute games ... SUBSTITUTIONS 2-3 rolling subs",
+    "retrieved_date": "2026-10-05",
+    "notes": "Pitch optimal 35m x 25m (range 30x20 to 40x30); goal 3-4m x 2m; results recorded for grading only, no table. The sheet's 'BALL SIZE' graphic reads 3 for U8 and U9.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "Mini Football (U10-U11 years)",
+    "format": "7v7",
+    "players_on_field": 7,
+    "match_length_minutes": null,
+    "match_length_basis": "range",
+    "match_length_minutes_range": [
+      40,
+      50
+    ],
+    "periods": {
+      "count": 2,
+      "length_minutes": null,
+      "note": "2 x 20-25 minute halves or games"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "2-3 rolling subs.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "Retreating line: yes, 30% of the field from the goal line. Offsides: yes, judged from the retreating line. No penalties; indirect free kicks; throw-ins; corners yes.",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=5efff680-4b0d-4f3d-bc97-534bf0f6c45a",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: Mini Football (U10/U11) 7v7 overview",
+    "quote": "MINI FOOTBALL 7v7 (U10-U11 YEARS) ... GAME TIME 2 x 20 - 25 minute halves or games ... BALL SIZE 4 ... 2-3 rolling subs",
+    "retrieved_date": "2026-10-05",
+    "notes": "Pitch optimal 50m x 30m (range 45x30 to 55x35); goal 4m x 2m; penalty area 20m x 8m.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "Mini Football (12-13 years)",
+    "format": "9v9",
+    "players_on_field": 9,
+    "match_length_minutes": null,
+    "match_length_basis": "range",
+    "match_length_minutes_range": [
+      50,
+      60
+    ],
+    "periods": {
+      "count": 2,
+      "length_minutes": null,
+      "note": "2 x 25-30 minute halves or games"
+    },
+    "ball_size": 4,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "2-3 rolling subs.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "Retreating line: yes, 30% of the field from the goal line. Offsides: yes (halfway). Penalties yes (8m). Direct or indirect free kicks; corners yes.",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=78100ccc-3706-4d8f-9738-c41379fb7a0c",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: Mini Football (U12/U13) 9v9 overview",
+    "quote": "MINI FOOTBALL 9v9 (12-13 YEARS) ... GAME TIME 2 x 25 - 30 minute halves or games ... BALL SIZE 4",
+    "retrieved_date": "2026-10-05",
+    "notes": "Pitch optimal 70m x 50m (range 60x45 to 75x50); goal 5m x 2m to 6.4m x 2.2m; penalty area 26m x 10m.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "Youth Football (14-15 years)",
+    "format": "11v11 or 9v9",
+    "players_on_field": 11,
+    "match_length_minutes": null,
+    "match_length_basis": "range",
+    "match_length_minutes_range": [
+      60,
+      80
+    ],
+    "periods": {
+      "count": 2,
+      "length_minutes": null,
+      "note": "2 x 30-40 minute halves"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "3-5 rolling subs.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "No retreating line. Offsides: yes. Penalties: yes (9m). Yellow and red cards used.",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=7398750f-db89-4da4-ab14-d5aa73cd755f",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: Youth Football (U14/U15) 11v11 or 9v9 overview",
+    "quote": "YOUTH FOOTBALL 11v11 (14-15 YEARS) or 9v9 ... GAME TIME 2 x 30 - 40 minute halves ... BALL SIZE 5 ... 3-5 Rolling subs",
+    "retrieved_date": "2026-10-05",
+    "notes": "players_on_field = 11 for the 11v11 option (9 if 9v9 'depending on competition needs'). 11v11 pitch optimal 85m x 55m; 9v9 pitch 70m x 50m.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      }
+    ]
+  },
+  {
+    "organisation": "New Zealand Football (Whole of Football 2.0)",
+    "country": "New Zealand",
+    "age_group": "Youth & Senior Football (16+ years)",
+    "format": "11v11",
+    "players_on_field": 11,
+    "match_length_minutes": null,
+    "match_length_basis": "range",
+    "match_length_minutes_range": [
+      70,
+      90
+    ],
+    "periods": {
+      "count": 2,
+      "length_minutes": null,
+      "note": "2 x 35-45 minute halves"
+    },
+    "ball_size": 5,
+    "goalkeeper": true,
+    "heading_rule": null,
+    "substitution_rule": "As per competition rules.",
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": "No retreating line. Offsides yes; penalties yes (11m).",
+    "source_url": "https://www.sporty.co.nz/asset/downloadasset?id=aa9685bf-1a08-4c74-9dd4-819738c76184",
+    "source_title": "New Zealand Football - WOF 2.0 Football Game Formats & Rules: Youth & Senior Football (16+) 11v11 overview",
+    "quote": "YOUTH & SENIOR FOOTBALL 11v11 (16+ YEARS) ... GAME TIME 2 x 35 - 45 minute halves ... SUBSTITUTIONS As per competition rules",
+    "retrieved_date": "2026-10-05",
+    "notes": "Pitch 100m x 60m; goal 7.3m x 2.4m.",
+    "additional_sources": [
+      {
+        "url": "https://www.nzfootball.co.nz/community/whole-of-football-2.0/resources",
+        "title": "New Zealand Football - Whole of Football 2.0 Resources"
+      }
+    ]
+  },
+  {
+    "organisation": "Football Association of Ireland (FAI)",
+    "country": "Ireland",
+    "age_group": "5-7 years old ('Me and My Ball')",
+    "format": "2v2 to 5v5 (illustrative)",
+    "players_on_field": null,
+    "match_length_minutes": null,
+    "match_length_basis": "unspecified",
+    "periods": {
+      "count": null,
+      "length_minutes": null,
+      "note": null
+    },
+    "ball_size": null,
+    "goalkeeper": null,
+    "heading_rule": null,
+    "substitution_rule": null,
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.fai.ie/download_file/3adea439-07e3-4b8e-bc13-eb30952e4ca6/1814/",
+    "source_title": "FAI - The Football Pathways Plan (2024), 'Football Pathway' chart (p.48-49) and 'Create Age and Stage Appropriate Formats' (p.54-55)",
+    "quote": "Note - Formats for illustrate purposes only at this point. This will be developed in collaboration with the game.",
+    "retrieved_date": "2026-10-05",
+    "notes": "The only current fai.ie document found that states formats by age. It gives format ranges per age band (5-7: 2v2 to 5v5; 8-11: 5v5 to 7v7; 12-14: 9v9 to 11v11; 15-16 and 17-19: 11v11) and example pitch/goal sizes (5v5 40m x 25m, 2m x 1.2m goals; 7v7 55m x 35m, 5m x 2m goals), but explicitly says formats are illustrative and will be developed with leagues. No match duration, ball size, heading, substitution or playing-time rule is published on fai.ie. The older FAI 'Player Development Plan' (2015: U8/U9 5v5, U10/U11 7v7, U12 9v9) survives only on club websites, which are not official sources, so it is NOT recorded here.",
+    "additional_sources": [
+      {
+        "url": "https://www.fai.ie/play-and-participate/football-pathways-plan/",
+        "title": "FAI - Football Pathways Plan landing page (links the PDF)"
+      }
+    ]
+  },
+  {
+    "organisation": "Football Association of Ireland (FAI)",
+    "country": "Ireland",
+    "age_group": "8-11 years old ('Me and My Skills')",
+    "format": "5v5 to 7v7 (illustrative)",
+    "players_on_field": null,
+    "match_length_minutes": null,
+    "match_length_basis": "unspecified",
+    "periods": {
+      "count": null,
+      "length_minutes": null,
+      "note": null
+    },
+    "ball_size": null,
+    "goalkeeper": null,
+    "heading_rule": null,
+    "substitution_rule": null,
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.fai.ie/download_file/3adea439-07e3-4b8e-bc13-eb30952e4ca6/1814/",
+    "source_title": "FAI - The Football Pathways Plan (2024), 'Football Pathway' chart (p.48-49)",
+    "quote": "8-11 YEARS OLD ... ME AND MY SKILLS ... 5v5 to 7v7 ... GRASSROOTS FOOTBALL / FAI FOOTBALL SCHOOLS",
+    "retrieved_date": "2026-10-05",
+    "notes": "See 5-7 row. Example pitch sizes: 5v5 40m x 25m; 7v7 55m x 35m. All other fields unverified from official FAI sources.",
+    "additional_sources": []
+  },
+  {
+    "organisation": "Football Association of Ireland (FAI)",
+    "country": "Ireland",
+    "age_group": "12-14 years old ('Me and My Team Mates')",
+    "format": "9v9 to 11v11 (illustrative)",
+    "players_on_field": null,
+    "match_length_minutes": null,
+    "match_length_basis": "unspecified",
+    "periods": {
+      "count": null,
+      "length_minutes": null,
+      "note": null
+    },
+    "ball_size": null,
+    "goalkeeper": null,
+    "heading_rule": null,
+    "substitution_rule": null,
+    "minimum_playing_time_rule": null,
+    "build_out_or_retreat_line": null,
+    "source_url": "https://www.fai.ie/download_file/3adea439-07e3-4b8e-bc13-eb30952e4ca6/1814/",
+    "source_title": "FAI - The Football Pathways Plan (2024), 'Football Pathway' chart (p.48-49)",
+    "quote": "12-14 YEARS OLD ... ME AND MY TEAM MATES ... 9v9 to 11v11",
+    "retrieved_date": "2026-10-05",
+    "notes": "Chart text for this band is partly garbled in extraction ('9v9 to 11v11' reconstructed from the chart). 15-16 and 17-19 bands are 11v11 in the same chart. All other fields unverified.",
+    "additional_sources": []
+  }
+]

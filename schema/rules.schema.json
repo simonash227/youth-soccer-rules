@@ -1,0 +1,296 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Youth soccer rules record",
+  "description": "One governing body and age-band record. rules.json is an array of these records.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "organisation",
+    "country",
+    "age_group",
+    "format",
+    "players_on_field",
+    "match_length_minutes",
+    "match_length_basis",
+    "periods",
+    "ball_size",
+    "goalkeeper",
+    "heading_rule",
+    "substitution_rule",
+    "minimum_playing_time_rule",
+    "build_out_or_retreat_line",
+    "source_url",
+    "source_title",
+    "quote",
+    "retrieved_date",
+    "notes",
+    "additional_sources"
+  ],
+  "properties": {
+    "organisation": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Governing body and named programme."
+    },
+    "country": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Country covered by this record."
+    },
+    "age_group": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Age band as labelled by the governing body."
+    },
+    "format": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Format wording, including alternatives, caps or illustrative status."
+    },
+    "players_on_field": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 11,
+      "description": "Players per side including goalkeeper, for the recorded option or cap; read notes."
+    },
+    "match_length_minutes": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "exclusiveMinimum": 0,
+      "description": "Recorded total, excluding breaks; use match_length_basis and notes."
+    },
+    "match_length_basis": {
+      "type": "string",
+      "enum": [
+        "fixed",
+        "maximum",
+        "range",
+        "unspecified"
+      ]
+    },
+    "match_length_minutes_range": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "number",
+        "exclusiveMinimum": 0
+      },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "Inclusive [minimum, maximum] total minutes; required for range records, otherwise absent or null."
+    },
+    "periods": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "count",
+        "length_minutes",
+        "note"
+      ],
+      "properties": {
+        "count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "exclusiveMinimum": 0
+        },
+        "length_minutes": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "exclusiveMinimum": 0
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "description": "Halves/quarters alternatives, game-time ranges, breaks and daily caps."
+        }
+      }
+    },
+    "ball_size": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Numeric size, source wording for multiple options, or unknown."
+    },
+    "goalkeeper": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Whether a goalkeeper is used; null for unstated or competing options."
+    },
+    "heading_rule": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1,
+      "description": "Heading policy in the cited document."
+    },
+    "substitution_rule": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1,
+      "description": "Substitution policy in the cited document."
+    },
+    "minimum_playing_time_rule": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1,
+      "description": "Playing-time rule or recommendation; wording preserves its scope and strength."
+    },
+    "build_out_or_retreat_line": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1,
+      "description": "Build-out, retreat-line and offside details."
+    },
+    "source_url": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Primary official source or governing-body-authored document.",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "source_title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Primary source title and edition or section."
+    },
+    "quote": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Supporting source excerpt, retained as supplied; may contain ellipses."
+    },
+    "retrieved_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Source retrieval date in YYYY-MM-DD format."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Caveats, provenance, exceptions and ambiguities."
+    },
+    "additional_sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "url",
+          "title"
+        ],
+        "properties": {
+          "url": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Corroborating official source.",
+            "format": "uri",
+            "pattern": "^https?://"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Corroborating source title."
+          }
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "match_length_basis": {
+            "const": "range"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "match_length_minutes_range"
+        ],
+        "properties": {
+          "match_length_minutes": {
+            "type": "null"
+          },
+          "match_length_minutes_range": {
+            "type": "array"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "match_length_minutes_range": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "match_length_basis": {
+            "enum": [
+              "fixed",
+              "maximum"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "match_length_minutes": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "match_length_basis": {
+            "const": "unspecified"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "match_length_minutes": {
+            "type": "null"
+          }
+        }
+      }
+    }
+  ]
+}

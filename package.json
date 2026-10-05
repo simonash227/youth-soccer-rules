@@ -1,0 +1,14 @@
+{
+  "name": "youth-soccer-rules",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Youth soccer match formats and playing-time rules, with sources",
+  "type": "module",
+  "license": "CC-BY-4.0 AND MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build-csv.mjs",
+    "test": "node --test"
+  }
+}
